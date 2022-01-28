@@ -1,0 +1,25 @@
+.heading{
+    width: 99%;
+    margin:0px;
+    font-size:20px;
+    box-shadow:2px 2px 30px grey;
+}
+.note{
+    font-size:16px;
+}
+canvas{
+    margin-top:20px;
+    border-color:whitesmoke;
+    border-radius: 5px;
+    border-width:2px;
+    box-shadow:2px 2px 30px grey;
+}
+body{
+    text-align: center;
+    background-color:rgb(235, 32, 52);
+}
+.footer{
+    bottom: 0px;
+    position:fixed;
+    color:whitesmoke;
+}
